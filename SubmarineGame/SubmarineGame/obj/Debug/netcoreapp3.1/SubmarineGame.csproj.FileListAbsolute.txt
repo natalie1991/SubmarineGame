@@ -1,0 +1,13 @@
+C:\dev\SubmarineGame\SubmarineGame\obj\Debug\netcoreapp3.1\SubmarineGame.csprojAssemblyReference.cache
+C:\dev\SubmarineGame\SubmarineGame\obj\Debug\netcoreapp3.1\SubmarineGame.AssemblyInfoInputs.cache
+C:\dev\SubmarineGame\SubmarineGame\obj\Debug\netcoreapp3.1\SubmarineGame.AssemblyInfo.cs
+C:\dev\SubmarineGame\SubmarineGame\obj\Debug\netcoreapp3.1\SubmarineGame.csproj.CoreCompileInputs.cache
+C:\dev\SubmarineGame\SubmarineGame\bin\Debug\netcoreapp3.1\SubmarineGame.exe
+C:\dev\SubmarineGame\SubmarineGame\bin\Debug\netcoreapp3.1\SubmarineGame.deps.json
+C:\dev\SubmarineGame\SubmarineGame\bin\Debug\netcoreapp3.1\SubmarineGame.runtimeconfig.json
+C:\dev\SubmarineGame\SubmarineGame\bin\Debug\netcoreapp3.1\SubmarineGame.runtimeconfig.dev.json
+C:\dev\SubmarineGame\SubmarineGame\bin\Debug\netcoreapp3.1\SubmarineGame.dll
+C:\dev\SubmarineGame\SubmarineGame\bin\Debug\netcoreapp3.1\SubmarineGame.pdb
+C:\dev\SubmarineGame\SubmarineGame\obj\Debug\netcoreapp3.1\SubmarineGame.dll
+C:\dev\SubmarineGame\SubmarineGame\obj\Debug\netcoreapp3.1\SubmarineGame.pdb
+C:\dev\SubmarineGame\SubmarineGame\obj\Debug\netcoreapp3.1\SubmarineGame.genruntimeconfig.cache
